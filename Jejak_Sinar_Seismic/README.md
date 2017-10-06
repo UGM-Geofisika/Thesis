@@ -1,4 +1,4 @@
 # Topik tentang Ray Theory
 Teori penjalaran sinar merupakan salah satu konsep yang penting dalam studi seismologi. Dengan memahami teori penjalaran gelombang seismik, banyak aspek penelitian di bidang seismologi yang dapat diungkap, misalnya mengenai karateristik sumber gempabumi, sifat fisika medium bumi, serta pemodelan gerakan tanah di permukaan akibat gempabumi.
 
-Silahkan memulai aktifitas, dengan menuliskan sesuatu, atau membuat skript program dengan matlab dan upload disini. Gunakan menu *"create new file"* untuk membuat halaman baru, *"upload file"* untuk mengunggah file (program/skript/dokumen/presentasi/pdf/*etc*)
+Silahkan memulai aktifitas, dengan menuliskan sesuatu, atau membuat skript program dengan matlab dan upload disini. Gunakan menu *"create new file"* untuk membuat halaman baru, *"upload file"* untuk mengunggah file (program/skript/dokumen/presentasi/pdf/*etc*), sebagaimana contoh diatas, ada file MSWORD atau program MATLAB yang dapat diupload sebagai bahan diskusi. Materi tulisan atau presentasi dalam bentuk LaTex juga dapat dipakai di GitHub. 
