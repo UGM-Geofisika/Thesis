@@ -23,3 +23,4 @@ Untuk itu, sebelum mulai melakukan aktifitas penelitian Thesis, mahasiswa dihara
 
 ## Sumber Belajar
 * <https://guides.github.com/activities/hello-world/>
+* <https://guides.github.com/features/mastering-markdown/>
