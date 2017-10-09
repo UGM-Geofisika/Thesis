@@ -1,2 +1,2 @@
 # Metode *Spatial Autocorrelation*
-Hanya contoh saja
+Metode *spatial autocorrelation* atau SPAC pertama kali dijelaskan secara sangat komprehensif oleh Keiti AKi (Aki, 1959).
