@@ -5,5 +5,7 @@ Berikut materi thesis dan media monitoring aktifitas penelitian Thesis S2 Fisika
 
 Untuk itu, sebelum mulai melakukan aktifitas penelitian Thesis, mahasiswa diharapkan belajar secara mandiri, apa itu GitHub dan *version control*, melalui berbagai tutorial yang banyak ditemukan di Internet. Dan ini adalah ujian pertama yang harus dilalui oleh Mahasiswa untuk melanjutkan ke tahap selanjutnya dalam penelitian Thesis.
 
+## Rambu-rambu menulis Thesis
+
 ## Sumber Belajar
 * <https://guides.github.com/activities/hello-world/>
