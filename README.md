@@ -23,3 +23,4 @@ Untuk itu, sebelum mulai melakukan aktifitas penelitian Thesis, mahasiswa dihara
 
 ## Sumber Belajar
 * <https://guides.github.com/>
+* <http://swcarpentry.github.io/git-novice/>
