@@ -6,6 +6,7 @@ Berikut materi thesis dan media monitoring aktifitas penelitian Thesis S2 Fisika
 Untuk itu, sebelum mulai melakukan aktifitas penelitian Thesis, mahasiswa diharapkan belajar secara mandiri, apa itu GitHub dan *version control*, melalui berbagai tutorial yang banyak ditemukan di Internet. Dan ini adalah ujian pertama yang harus dilalui oleh Mahasiswa untuk melanjutkan ke tahap selanjutnya dalam penelitian Thesis.
 
 ## Rambu-rambu menulis Thesis
+* Yang pertama dan utama, fahami aturan penulisan Thesis Fakultas MIPA UGM. Nah, kalau sudah faham, sebetulnya point-point dibawah ini menjadi tidak relevan lagi. Tapi ada baiknya juga untuk diulang-ulang lagi.
 * Menulis kalimat harus sempurna, harus ada Subyek/Predikat dan Obyek + Keterangan
 * Sebuah paragraf adalah satu pokok pikiran.
 * Paragraf jangan hanya terdiri dari satu kalimat.
