@@ -23,14 +23,7 @@ t3=((2*h1*sqrt(v2^2-v1^2))/(v1*v2))+(D/v2);
 plot(D,t1,'b'); hold on;plot(D,t2,'r');hold on;plot(D,t3,'g')
 legend('Direct Wave', 'Reflection Wave', 'Refraction  Wave')
 xlabel('Distance of Source to Receiver(m)'); ylabel('Time(s)')
-%================ cari waktu tsR
-%travel_time=input('berapa jarak antara source ke reciver?');
 
-%if travel_time<=10
-    %disp('t1');
-%else
-   %disp('t2');
-%end
 
 
 
