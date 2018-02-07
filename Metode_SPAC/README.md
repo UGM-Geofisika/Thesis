@@ -1,2 +1,2 @@
 # Metode *Spatial Autocorrelation*
-Metode *spatial autocorrelation* atau SPAC pertama kali dijelaskan secara sangat komprehensif oleh Keiti AKi (Aki, 1957). 
+Metode *spatial autocorrelation* atau SPAC pertama kali dijelaskan secara sangat komprehensif oleh Keiti AKi (Aki, 1957). Aki menulis lagi untuk menjelaskan secara lebih singkat, namun sangat bernas, pada tahun 1965 di Geophysics (Aki, 1965). Sesma dkk (2005) membuat telaah untuk mengganti "rerata spasial" dengan menambah segmen window sehinggga menjadi alternatif untuk berbagai bentuk konfigurasi array.
